@@ -15,6 +15,8 @@
 
 .App-header {
   background-color: #282c34;
+  /* Use the primary 40 from Design system */
+  /* background-color: rgb(var(--colors-primary-40)); */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
